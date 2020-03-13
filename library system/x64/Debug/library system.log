@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+  library system.cpp
+e:\films\atef\library system\library system\library system.cpp(17): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\time.h(506): note: see declaration of 'localtime'
+e:\films\atef\library system\library system\library system.cpp(108): warning C4101: 'today': unreferenced local variable
+e:\films\atef\library system\library system\library system.cpp(519): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: see declaration of 'getch'
+e:\films\atef\library system\library system\library system.cpp(531): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: see declaration of 'getch'
+e:\films\atef\library system\library system\library system.cpp(1432): warning C4101: 'answer': unreferenced local variable
+  LINK : E:\films\atef\library system\x64\Debug\library system.exe not found or not built by the last incremental link; performing full link
+  library system.vcxproj -> E:\films\atef\library system\x64\Debug\library system.exe
+  library system.vcxproj -> E:\films\atef\library system\x64\Debug\library system.pdb (Partial PDB)

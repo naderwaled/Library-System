@@ -1,0 +1,15 @@
+﻿  library system.cpp
+m:\sp program\library system\library system\library system.cpp(17): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: see declaration of 'localtime'
+m:\sp program\library system\library system\library system.cpp(103): warning C4101: 'today': unreferenced local variable
+m:\sp program\library system\library system\library system.cpp(502): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+m:\sp program\library system\library system\library system.cpp(514): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+m:\sp program\library system\library system\library system.cpp(691): warning C4018: '<': signed/unsigned mismatch
+m:\sp program\library system\library system\library system.cpp(898): warning C4018: '<': signed/unsigned mismatch
+m:\sp program\library system\library system\library system.cpp(1153): warning C4018: '<': signed/unsigned mismatch
+m:\sp program\library system\library system\library system.cpp(1159): warning C4018: '<': signed/unsigned mismatch
+m:\sp program\library system\library system\library system.cpp(1415): warning C4101: 'answer': unreferenced local variable
+  library system.vcxproj -> M:\SP Program\library system\Debug\library system.exe
+  library system.vcxproj -> M:\SP Program\library system\Debug\library system.pdb (Partial PDB)
